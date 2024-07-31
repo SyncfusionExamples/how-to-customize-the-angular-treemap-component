@@ -3,10 +3,13 @@ A quick-start project that shows how to customize the layout, data labels, selec
  
 Refer to the following documentation to learn about the Angular TreeMap component: 
 https://ej2.syncfusion.com/angular/documentation/treemap/levels
+
 https://ej2.syncfusion.com/angular/documentation/treemap/leaf-item
+
 https://ej2.syncfusion.com/angular/documentation/treemap/layout
 
 Check out this online example of the Angular TreeMap Component:
+
 https://ej2.syncfusion.com/angular/demos/#/fluent2/treemap/custom
 
 Make sure that you have the latest versions of NodeJS and Visual Studio Code in your machine before starting to work on this project.
