@@ -1,11 +1,10 @@
 import { Component } from '@angular/core';
-import { RouterOutlet } from '@angular/router';
 import { TreeMapModule, TreeMapTooltipService, TreeMapSelectionService, TreeMapHighlightService } from '@syncfusion/ej2-angular-treemap';
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, TreeMapModule ],
+  imports: [TreeMapModule ],
   providers: [TreeMapTooltipService, TreeMapSelectionService, TreeMapHighlightService],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
